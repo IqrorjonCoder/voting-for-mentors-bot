@@ -10,9 +10,9 @@ groups = InlineKeyboardMarkup([[InlineKeyboardButton(text="Data Science", callba
 
 
 mentors = {
-    "data science": InlineKeyboardMarkup([[InlineKeyboardButton(text="Komiljon Xamidjonov", callback_data="Komiljon Xamidjonov"),
-                                           InlineKeyboardButton(text="Arslanova Nodira", callback_data="Arslanova Nodira"),
-                                           InlineKeyboardButton(text="Alimbayeva Asalbonu", callback_data="Alimbayeva Asalbonu")],
+    "data science": InlineKeyboardMarkup([[InlineKeyboardButton(text="Komiljon Xamidjonov", callback_data="Komiljon Xamidjonov")],
+                                           [InlineKeyboardButton(text="Arslanova Nodira", callback_data="Arslanova Nodira")],
+                                           [InlineKeyboardButton(text="Alimbayeva Asalbonu", callback_data="Alimbayeva Asalbonu")],
                                            [InlineKeyboardButton(text="🔙 orqaga 🔙", callback_data="🔙 orqaga 🔙")],
                                           ]),
 
