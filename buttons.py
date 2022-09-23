@@ -51,9 +51,9 @@ because_of = {
                                          [InlineKeyboardButton(text="🔙 orqaga 🔙", callback_data="🔙 orqaga 🔙")],
                                         ]),
 
-    "qoniqarli": InlineKeyboardMarkup([[InlineKeyboardButton(text="darsni kechroq boshladi", callback_data="o'z vaqtida ish joyida yo'q")],
-                                         [InlineKeyboardButton(text="kamroq yordam berdi", callback_data="umuman yordam bera olmadi")],
-                                         [InlineKeyboardButton(text="amamilyot qo'llamadi", callback_data="yordam berishdan bosh tortdi")],
+    "qoniqarli": InlineKeyboardMarkup([[InlineKeyboardButton(text="darsni kechroq boshladi", callback_data="darsni kechroq boshladi")],
+                                         [InlineKeyboardButton(text="kamroq yordam berdi", callback_data="kamroq yordam berdi")],
+                                         [InlineKeyboardButton(text="amamilyot qo'llamadi", callback_data="amamilyot qo'llamadi")],
                                          [InlineKeyboardButton(text="🔙 orqaga 🔙", callback_data="🔙 orqaga 🔙")],
                                        ]),
 }
