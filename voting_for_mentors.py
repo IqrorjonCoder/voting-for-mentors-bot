@@ -74,8 +74,9 @@ def submit(update, context):
     query = update.callback_query
     if query.data == "tasdiqlandi":
         context.bot.delete_message(chat_id=query.message.chat_id, message_id=query.message.message_id)
-        query.message.reply_text(f"*Tasdiqlandi✅ \nAstrumning mentorlari uchun baho bering!\n{context.user_data}*", parse_mode="Markdown", reply_markup=buttons.voting_button)
+        query.message.reply_text(f"*Tasdiqlandi✅ \nAstrumning mentorlari uchun baho bering!*", parse_mode="Markdown", reply_markup=buttons.voting_button)
         to_sql.to_sql(context.user_data['mentor'], context.user_data['result'], context.user_data['becauseof'])
+        to_sql.to_googlesheets(context.user_data['mentor'], context.user_data['result'], context.user_data['becauseof'])
         return ConversationHandler.END
     else:
         context.bot.delete_message(chat_id=query.message.chat_id, message_id=query.message.message_id)

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voiting-for-mentors",
+  "private_key_id": "43f7032bd3cf89b7a057941bcc4685dcd7b3e7c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC98jvQTEgKfTKB\nv6i4eohfD35tlcYU5YOYJT5z1xUKPmKxu46lq+pGTCQpWiw+5SIvhXslh85fKvGM\nkS6/PA9jeY36ewx4RBWW89VLH+3fRZ4N0DVxDD8k6/HovPwWpEcf+HwCwTM9mi1y\n4eOThBUt1/VGftLoZv223GaP3/AEbpLx+o+mJIVo4XMxSj4wfkz1ZOciaQD0HWFU\nZE+fsv7eJc4xl/2J6fqqfj2BZ+WZLTgfC5PHcK+F82qrlXcFsCAGOzj8iEBSmDmM\nYgRVEspJqS1Htv27SKFgkB68I4qXxyDofn97s+bZ3pDBgMfjmb5EWGS5Eado3kOT\nBg5aX2ZBAgMBAAECggEABXPwj/U9JxUvFcjIK8fbfe5hh90GJEHen0fAL0JXJqGp\n6toYdTjKQWtwmTHvKczxWFO2wFoJwHtYtutA8DUtyEpgQzbcqcATXjeMtbbuaNfA\nYttRme+++TD3c1nnyyD7IFutaHU2OsY4GFt8EW9H/f50ano0BP9GKMWC8Z3dP6zF\nydejmKBbVW34qeM3WuPNsc40+m5NqjD2ErHgXbVnmqjathVGBy0WlhPwj6Ei2rJp\ncs0v42o1lNUvdVLkwP0famgSm1fYedvJwPXDW41AHEh2e4SFaWm3xwEJmGqp2xRZ\nkQ5u3+Ll0Bjl6wQkpvzOlgDnbOHwqA20c9WUKUQ9oQKBgQD/RxlbApuoqd2yXcp8\nuDh3DLoaHI/QnH5f8ew2DOJjp27dQAJj4u7fTg/BI7o97Ek6TkoUkxM5sn6wvRh5\nLaAbncfb1FF2BXqAtpW3mu8se56qbWUUb8PTeSqU8nNUiJFbzy1R91D7KYz23bMr\nhhJaL00DiFRHoVnYxz72J9IOoQKBgQC+e9BsGxkwhnzc2q0OBg0xsYWYJVBtUqrP\nyJHilO8RjxrvXtLp5raPi48K42Gae3/y2ZPd63lxr+w9ZMpGwSFs/EGuGo7x1dmm\nuKbO00ErAEUlYXYAFBMSbTpmRqYiglAeF4booa0mDeWJAxPsKQMSR6NEaC0aLmU1\nvJsoZMZToQKBgQD8fSFKECFPyHt7sSLXCwrmTVNBAmEIj9C7KzhcGZBNysxvz6DN\nlSZ4/ee9O445Mx0Wq1rAUNwiJDcErnOnX4ZN6lhESRMtbavF5VHeIUNRNxAvNzZT\n6VvCLcT9P3Ts9or3SMplmP2i/mzru0o80UYTp1dAGDZsBt4r+J6Ar9AnIQKBgQCN\nKoMu6vJDFRhKMMGZqAB1OIOyWsz9CAvQy2raSdfW4oBqr5KNh876GMpcnmDCNQ6A\nsqC0EYPCLkdcxGpn/08/Tr96QPJ45SxVM3ljxAoCzUNxTYY+zqHHwS1LiMYswviP\nJI51rwP8NMZMQPytw0Mkc/TaiH4Mbh/RsEIosG6OoQKBgQDh5FnDsKKVWK6/Kbsy\nVtAif8AtrEBROWlpCWfVOHBohIM+i9xxXBiWIa5DZiyG6RT37Z43ilcwJ4jHy6kF\nvFCxJTMaC/hAeEoRVW5beybWtlAoOmf+2e99sHS1Eg6U3VDEIjbEaU9xTgYEHGhW\nHthuYPIImnqvWNIg3lE+7tPRbw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "votingformentors@voiting-for-mentors.iam.gserviceaccount.com",
+  "client_id": "105173874374251468463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/votingformentors%40voiting-for-mentors.iam.gserviceaccount.com"
+}
